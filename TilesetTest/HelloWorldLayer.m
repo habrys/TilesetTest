@@ -6,7 +6,7 @@
 //  Copyright __MyCompanyName__ 2011. All rights reserved.
 //
 
-static const float MIN_SCALE = 0.25;
+static const float MIN_SCALE = 0.25; //min scale
 static const float MAX_SCALE = 1.0; //max scale
 
 
