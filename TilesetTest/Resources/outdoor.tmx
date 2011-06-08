@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="GRS2ROCa" tilewidth="40" tileheight="40">
+  <image source="GRS2ROCa.png" width="640" height="479"/>
+ </tileset>
+ <tileset firstgid="177" name="CLIFFVEGa" tilewidth="40" tileheight="40">
+  <image source="CLIFFVEGa.png" width="640" height="479"/>
+ </tileset>
+ <tileset firstgid="353" name="TREEa" tilewidth="40" tileheight="40">
+  <image source="TREEa.png" width="640" height="479"/>
+ </tileset>
+ <layer name="Background" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzsEJgEAQBLCtRUSuDpErRMT+S3B6uM8KeeSfUVUDILbY42hwWXHGFbPBZcUdT7wNLgAAAAAAAAAAf/ABb42HrA==
+  </data>
+ </layer>
+ <layer name="Rocks" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztz0EKgVEYRuF7SWIZJDEkiSFJLJckhiSxDDJgFU5ZgTu5fp2nTt/0/UL4Hyta04a2tKN91kVpDnSkE53pQtesi9Lc6E4PqsYQntxX3klJSmwvUyV+fqlx6zH3qu812NykFrWpQ90C/tFjc58GNKQRjQv4x4TNU5rRnBa0LOAfkiRJkiRJkiRJkiRJv+QN1BESUw==
+  </data>
+ </layer>
+ <layer name="Trees" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt080KgkAUxfE7j1o+QQm51iDxPWzdRneCm3ovT9iAyEQtvfL/wWU+mMU5izFLuwSzIsz7g9ajJgtfHm/YTZnrT+6T1rMmd9hjqVT+SnN10mNI5Gx1d3eS/y3+h8cqc6dz76hH/A/jKvNT55ejHv9odtYHAAAAAAAAAAAAAAAAv002kw8A
+  </data>
+ </layer>
+</map>

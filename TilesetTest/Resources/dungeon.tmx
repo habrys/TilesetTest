@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="VILFLRa" tilewidth="40" tileheight="40">
+  <image source="VILFLRa.png" width="640" height="479"/>
+ </tileset>
+ <tileset firstgid="177" name="VILINTa" tilewidth="40" tileheight="40">
+  <image source="VILINTa.png" width="640" height="479"/>
+ </tileset>
+ <tileset firstgid="353" name="VILDAMa" tilewidth="40" tileheight="40">
+  <image source="VILDAMa.png" width="640" height="479"/>
+ </tileset>
+ <tileset firstgid="529" name="TABLE1a" tilewidth="40" tileheight="40">
+  <image source="TABLE1a.png" width="640" height="479"/>
+ </tileset>
+ <tileset firstgid="705" name="BENCHa" tilewidth="40" tileheight="40">
+  <image source="BENCHa.png" width="640" height="479"/>
+ </tileset>
+ <layer name="Floor" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzNWVtuE0EQnDNEkWUhLuIEH8ABHyCBPQABH8CA7561tCW3i+rH7DqIj5LjGW9vV7+mp3PXWrubgc2IhxGP9PenEdsOObsFeBrxecSXmRyYB8vcd8h5XoCXEV9HfLsRD5Y5dMj5vgCvI36M+Fl81weHB8AyDx08jgvwa8TvEX9I5irR3Ytrlnmi334syqkiysf19Hkv3rVqf/O0cRrxWNOzzKknH5T+1bqyctZtnGb+6M0PpS9/P2Pv8LA6wy9r5/1RrDKPFcnM8kPVP8VhMOtVu0W6LIGygap/lgc4HNoltjz5iONb6b0Wsj0eqv5ZX4DDqV1iq5Lnt9LfiyvmodasL8DhNHGq+EPlznvHVcRjmL5jHb7y9J5j7zV9RjV8Lo8DrZ/xmOh1H7xf1bYMyqes8ybhcRJ7isct0BODrLPXH4CH2nsvHnPz4+wLrz/IeFTuDep83XRCPf9Aep194fUHGQ/v3mBjQ+mxtK9jHtYXc3h494a14aLsu7S/47XIF/Y53sPZ6N0bbA1SNu6571R4RL7YGvDefkKlT1U2Vv2d0tcD/9bzxZ7A+8OECo859rZ9KYPrBPJE8RgIvH+Y4PGweZ7dL1WfDbAew7Rua4B39lk9PX2BW5wBqs8GWI/DtI74zO7HjMo92sK7P3lxx/UCULoc2iUme+oeozL3WdJbWJ29PcTkv5z7ZL7Kzu9oPcu9CN7cx4LnPlGcZec357SdQ/Jzlf5G1cc5cZSdL+qMQ07bPX6u0t9sWt8c1to/4xidJ5t2ndPWtvxcltfgoupjFk+Km7rTeef6rl3nNHTZieeyvIYdVH2MahU4ZTWYc45jB/tHo8uzeC7La/g6Oj+yeW7ks4gH903widdP8ZzN9jLwdXYOQj/MHJQfqnds8OAaCZ+o2gkeds5me5l9kYcXP1meZzzUnE2t29kOegHbywxFHnNh5XLNVe/0fOH1+pbP/8TDxgp05fkt9/ng4/GonKEZennYWIGulofq88HH63d75gXeGdvLw/a90HXbrmeG3OeDj6rXp7asb8YZG/FQPlP3JPs/GdXng49XI3pmBXPiqnLnQ854MxHLx56pXCMriGIr4gGfebx5bh7lAPhuxX41D6LYinigL6rcX1GXlFzLdy/2qnkQxVyW59zLelxQkzzZtsbyejU/jgkw21TznyPJ8mxtY4Zlc43l9Uy/SN621WbTLMezM2KGZagYUjyyGV6E7O7m1bcoRzwZ8IOyg+ffKrx8yurGU2BDTwb8oOzg+beK6O4W4SWwoSfD5qnqPbMZXgQvl7K68RrY0JMR5eobMUHLZg==
+  </data>
+ </layer>
+ <layer name="Walls" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmMlKA0EQhltBBXE5aS4uIKjgY+hJj0oQfdyIBMUFFAmKCygSFJeDV7d/SDfUlDOZpWvoGOqDj0nD5J+pMJMuqmGM2YNNuG9tsjX1AB7CoQFjhuEITKLBcnmey5HiDJ7DFrywttiaegmv4BTufxrWUurguTzP5UhxDx9gGz5a22xNfYLPcBH3vwSXU+rguTzP5UgxmHIfEbWU33u0y3do7kfGOXly8tKtDp/r58nVOspdr8z1tY5yFK3jBJ6a+F6TtO8cweOMrJB13MI7E99rkvada3iTkRWyjjf4buJ7TdK+8wJfM7JC1vENf3Kc9wm/Ms4J/Z5LoXX8ZRVZayRvDJ/H7XoCx8mK6lxH7oZg9iaytmDdOgNnbf4cjvNw28N6ijtwt8JnYYFlrwR87nzQOnqLfqmD/w9rHWH5r3W4+Yzru2m/TXt0PreJ1tKzGx/cfMb13bTfpj06n9tEa+nZjQ9uPuP6btpv0x6dz22itfTsxgc+n6H9dp4evVfeH99+V7Jn9UHr6KDPlSxaRwd9rmTplzr4nKEI0rMCH/icoYhVzwoURVEURVEUxZdfQ+SjKg==
+  </data>
+ </layer>
+ <layer name="WallsDamaged" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmM9KAzEQxtdCWfRxK7IoasFSiuIfUKQotgV7tS14LPoGevHom+jJL7gLw5iym7bZZuL8ICTZZL5JNttMmtZWkuwiGfaQZ3m5ICNtLrRyXWPPbV21qnACzU6u20XeYz56pG0ZXWPPbV21qnANzZtc9xZ5n/nok7ZldI09t3XVqsIjNMeCdBfxXKMvzucGfSt/Wed6bPK7Co0iHtDYc4jykbB3VMQDGnvOUb4QNo8iHtDY84DyoGQeEvarJ4xx8k/iRyzMPb7DF2i/1rBGX/Dx7clP2kiSN2i/W/Sbjd92Wudl2m7rlxKNbeQ7lv6+8Ln2PvkQOm5OrPuX1O+KIyHm2ojl9yEd213MMZ61yZmc9jH1faSDwNbPdhdziWdX5ExO+5j6KdJZYPOw3cUM8WxEzuS0j6nfId0HNg8bU4xxJmCc6yCUfXnVfTaWOBnKPGI9TymyiWW/igGfdwWr0Cz535+S+wTTt+67AkVRFEVRFEVx5QcoP0EZ
+  </data>
+ </layer>
+ <layer name="Bench" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0rEJgEAQBMDH/qtTEdFMDSzDK8Dko+OeGdh8F7Y1yLVN2Q367QU7/3kH2UG+I750DvCnOTYskbX4liv635Gn+A4AAAAAAAAA6PUBjfkJhA==
+  </data>
+ </layer>
+ <layer name="Table" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJgDAURMFPShFJISIWIpL+S3BLEBQkMAPvvlsFPLG0qjX19veSd7bs39Mx+Y8z+680Jv8BAAAAAAAAAMB3bvLZAnc=
+  </data>
+ </layer>
+ <layer name="Bench1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztz0ENACAQBLHN+RfIizcyEMElJNAqmEmAH81KRt2u6LEe+QAAAAAAAAAA4MwGD14CpQ==
+  </data>
+ </layer>
+</map>
