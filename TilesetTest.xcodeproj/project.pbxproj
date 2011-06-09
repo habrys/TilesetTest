@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E913C2F139F8C45001BEED8 /* DSC07232.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2E913C2E139F8C45001BEED8 /* DSC07232.JPG */; };
 		2EFCC43A13867178009663FA /* CLIFFVEGa.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EFCC43713867178009663FA /* CLIFFVEGa.png */; };
 		2EFCC43B13867178009663FA /* GRS2ROCa.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EFCC43813867178009663FA /* GRS2ROCa.png */; };
 		2EFCC43C13867178009663FA /* TREEa.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EFCC43913867178009663FA /* TREEa.png */; };
@@ -135,6 +136,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E913C2E139F8C45001BEED8 /* DSC07232.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DSC07232.JPG; sourceTree = "<group>"; };
 		2EFCC43713867178009663FA /* CLIFFVEGa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CLIFFVEGa.png; path = Resources/CLIFFVEGa.png; sourceTree = "<group>"; };
 		2EFCC43813867178009663FA /* GRS2ROCa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GRS2ROCa.png; path = Resources/GRS2ROCa.png; sourceTree = "<group>"; };
 		2EFCC43913867178009663FA /* TREEa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TREEa.png; path = Resources/TREEa.png; sourceTree = "<group>"; };
@@ -461,6 +463,7 @@
 		8C9BC5A9136ACF81003E4C8C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				2E913C2E139F8C45001BEED8 /* DSC07232.JPG */,
 				2EFCC44113867CEE009663FA /* BENCHa.png */,
 				2EFCC44213867CEE009663FA /* TABLE1a.png */,
 				2EFCC44313867CEE009663FA /* VILDAMa.png */,
@@ -798,6 +801,7 @@
 				2EFCC44813867CEE009663FA /* VILDAMa.png in Resources */,
 				2EFCC44913867CEE009663FA /* VILFLRa.png in Resources */,
 				2EFCC44A13867CEE009663FA /* VILINTa.png in Resources */,
+				2E913C2F139F8C45001BEED8 /* DSC07232.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
